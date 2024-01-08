@@ -1,6 +1,6 @@
 ## Analyzing Slovakia's population count changes between 2006 and 2021 👪
 
-![](image/SK_population_2006_vmax_6000.jpg)
+![](image/SK_population_2006_vmax_6000_cropped_to_content.jpg)
 
 #### Goal: 
 to describe Slovakia's current (2021) population count and its changes between 2006 and 2021
